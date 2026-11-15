@@ -21,3 +21,6 @@ htmlcov/
 
 # Local QGIS style database created during headless runs
 /symbology-style.db
+
+# Remotion demo workspace
+/demo/

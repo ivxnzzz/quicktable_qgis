@@ -4,7 +4,7 @@ Search, filter and edit vector-layer attributes in QGIS—even tables without ge
 
 **Version 2.6** · QGIS 3.44+ (3.x) · By Iven Paul Rolloque
 
-![QuickTable interface with attribute filters and column statistics](https://raw.githubusercontent.com/ivxnzzz/quicktable_qgis/main/docs/images/quicktable-interface.png)
+![QuickTable interface with attribute filters, column statistics, and Features Preview](https://raw.githubusercontent.com/ivxnzzz/quicktable_qgis/main/docs/images/quicktable-interface.png)
 
 _Sample data: Philippine PSGC boundaries from [altcoder/philippines-psgc-shapefiles](https://github.com/altcoder/philippines-psgc-shapefiles)._
 
